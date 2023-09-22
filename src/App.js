@@ -6,7 +6,7 @@ function App() {
   return (
     <>
 
-          <h1 style={{}}>Change Color App</h1>
+          <h1>Change Color App</h1>
 
         <div className='w-full h-screen duration-200' style={{backgroundColor: color}}>
 
